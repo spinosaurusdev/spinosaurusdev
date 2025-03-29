@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spinosaurusdev
+### 👋 Hi, I’m @spinosaurusdev
 
 ### Never stop learning!  
 ### <div align="center">I'm Edd, a full-stack developer, learning programming and growing since 2021</div>  
