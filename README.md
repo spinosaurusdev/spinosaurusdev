@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m @spinosaurusdev
 
 ### Never stop learning!  
-### <div align="center">I'm Edd, a full-stack developer, learning programming and growing since 2021</div>  
+### <div align="center">I'm a full-stack developer and a cybersecurity analyst, learning programming and growing in tech since 2021</div>  
   
 
-- 🔭 I’m currently learning Phyton, TypeScript, NextJS, Angular and Cyber security  
+- 🔭 I’m currently learning Phyton and Cyber security  
   
 
 - 🌱 I’m currently working on personal projects to continue learning  
